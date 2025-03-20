@@ -1,0 +1,16 @@
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\bin\Debug\net9.0\ChainCCLib.deps.json
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\bin\Debug\net9.0\ChainCCLib.dll
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\bin\Debug\net9.0\ChainCCLib.pdb
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\bin\Debug\net9.0\ChainCCLib.xml
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\bin\Debug\net9.0\ChainCCSuporter.dll
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\bin\Debug\net9.0\ChainCCSuporter.pdb
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\obj\Debug\net9.0\ChainCCLib.fsproj.AssemblyReference.cache
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\obj\Debug\net9.0\ChainCCLib.AssemblyInfoInputs.cache
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\obj\Debug\net9.0\ChainCCLib.AssemblyInfo.fs
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\obj\Debug\net9.0\ChainCCLib.fsproj.CoreCompileInputs.cache
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\obj\Debug\net9.0\ChainCCLib.fsproj.Up2Date
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\obj\Debug\net9.0\ChainCCLib.dll
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\obj\Debug\net9.0\refint\ChainCCLib.dll
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\obj\Debug\net9.0\ChainCCLib.xml
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\obj\Debug\net9.0\ChainCCLib.pdb
+C:\Users\n-mak\source\repos\ChainCCLib\ChainCCLib\obj\Debug\net9.0\ref\ChainCCLib.dll

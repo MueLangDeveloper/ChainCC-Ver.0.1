@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="ChainCC.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ChainCCSuporter">
+      <HintPath>..\ChainCCSuporter\ChainCCSuporter\bin\Release\net9.0\ChainCCSuporter.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

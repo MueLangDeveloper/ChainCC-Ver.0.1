@@ -1,0 +1,11 @@
+C:\Users\n-mak\source\repos\ChainCCSuporter\ChainCCSuporter\bin\Debug\net9.0\ChainCCSuporter.deps.json
+C:\Users\n-mak\source\repos\ChainCCSuporter\ChainCCSuporter\bin\Debug\net9.0\ChainCCSuporter.dll
+C:\Users\n-mak\source\repos\ChainCCSuporter\ChainCCSuporter\bin\Debug\net9.0\ChainCCSuporter.pdb
+C:\Users\n-mak\source\repos\ChainCCSuporter\ChainCCSuporter\obj\Debug\net9.0\ChainCCSuporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n-mak\source\repos\ChainCCSuporter\ChainCCSuporter\obj\Debug\net9.0\ChainCCSuporter.AssemblyInfoInputs.cache
+C:\Users\n-mak\source\repos\ChainCCSuporter\ChainCCSuporter\obj\Debug\net9.0\ChainCCSuporter.AssemblyInfo.cs
+C:\Users\n-mak\source\repos\ChainCCSuporter\ChainCCSuporter\obj\Debug\net9.0\ChainCCSuporter.csproj.CoreCompileInputs.cache
+C:\Users\n-mak\source\repos\ChainCCSuporter\ChainCCSuporter\obj\Debug\net9.0\ChainCCSuporter.dll
+C:\Users\n-mak\source\repos\ChainCCSuporter\ChainCCSuporter\obj\Debug\net9.0\refint\ChainCCSuporter.dll
+C:\Users\n-mak\source\repos\ChainCCSuporter\ChainCCSuporter\obj\Debug\net9.0\ChainCCSuporter.pdb
+C:\Users\n-mak\source\repos\ChainCCSuporter\ChainCCSuporter\obj\Debug\net9.0\ref\ChainCCSuporter.dll
